@@ -1,2 +1,2 @@
 # tmux-session-manager
-Helps manage your tmux sessions in a simplay manner
+Helps manage your tmux sessions in a simple manner
